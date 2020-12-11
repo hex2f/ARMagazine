@@ -20,6 +20,7 @@
 /* Begin PBXFileReference section */
 		611D93A92582656E000B1568 /* kda.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kda.mp4; sourceTree = "<group>"; };
 		614FEBD82583E37C00EDE825 /* FadeExtenstions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FadeExtenstions.swift; sourceTree = "<group>"; };
+		614FEBDC2583E60300EDE825 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		913BE564245C2B8300D14B24 /* ARDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		913BE567245C2B8300D14B24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		913BE569245C2B8300D14B24 /* ar.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = ar.scnassets; sourceTree = "<group>"; };
@@ -44,6 +45,7 @@
 		913BE55B245C2B8300D14B24 = {
 			isa = PBXGroup;
 			children = (
+				614FEBDC2583E60300EDE825 /* README.md */,
 				913BE566245C2B8300D14B24 /* ARDemo */,
 				913BE565245C2B8300D14B24 /* Products */,
 			);
