@@ -6,4 +6,6 @@ This demo showcases the posibility AR has to modernize magazines, especially onc
 
 Code originally inspired by [medium.com/dev-genius](https://medium.com/dev-genius/play-video-with-arkit-and-image-tracking-e8b52dc4ad76)
 
-Magazine cover is here ![](https://raw.githubusercontent.com/leahlundqvist/ARMagazine/main/ARDemo/Assets.xcassets/AR%20Targets.arresourcegroup/magazine.arreferenceimage/kdacover%20copy.jpg)
+Magazine cover is here 
+
+![](https://raw.githubusercontent.com/leahlundqvist/ARMagazine/main/ARDemo/Assets.xcassets/AR%20Targets.arresourcegroup/magazine.arreferenceimage/kdacover%20copy.jpg)
